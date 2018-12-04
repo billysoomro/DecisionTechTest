@@ -1,0 +1,10 @@
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\bin\Debug\DecisionTech.ShoppingCart.exe.config
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\bin\Debug\DecisionTech.ShoppingCart.exe
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\bin\Debug\DecisionTech.ShoppingCart.pdb
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\bin\Debug\Castle.Core.dll
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\bin\Debug\Castle.Windsor.dll
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\bin\Debug\Castle.Windsor.xml
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\obj\Debug\DecisionTech.ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\obj\Debug\DecisionTech.ShoppingCart.exe
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\obj\Debug\DecisionTech.ShoppingCart.pdb
+C:\Users\bilaw\Desktop\DecisionTech.ShoppingCart\DecisionTech.ShoppingCart\obj\Debug\DecisionTech.ShoppingCart.csprojResolveAssemblyReference.cache
